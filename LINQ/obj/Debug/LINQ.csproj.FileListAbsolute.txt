@@ -1,0 +1,7 @@
+C:\Users\mariia.kozhyna\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\mariia.kozhyna\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\mariia.kozhyna\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\mariia.kozhyna\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\mariia.kozhyna\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\mariia.kozhyna\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\mariia.kozhyna\source\repos\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
